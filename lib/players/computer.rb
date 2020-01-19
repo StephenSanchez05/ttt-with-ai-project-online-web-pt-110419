@@ -1,4 +1,3 @@
-Learn more or give us feedback
 module Players
   class Computer < Player
     def move(board)
